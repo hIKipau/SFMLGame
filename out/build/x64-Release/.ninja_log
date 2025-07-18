@@ -1,0 +1,13 @@
+# ninja log v5
+2	89	7745490449894263	CMakeFiles/SFMLGame.dir/main.cpp.obj.ddi	9c4f1f5d4e1ad5eb
+91	106	7745490450077573	CMakeFiles/SFMLGame.dir/CXX.dd	2f95369f1afb928f
+91	106	7745490450077573	C:/Users/user/source/repos/SFMLGame/out/build/x64-Release/CMakeFiles/SFMLGame.dir/CXXModules.json	2f95369f1afb928f
+91	106	7745490450077573	CMakeFiles/SFMLGame.dir/main.cpp.obj.modmap	2f95369f1afb928f
+107	1080	7745490459785917	CMakeFiles/SFMLGame.dir/main.cpp.obj	99e7bd356829da22
+1080	1180	7745490460363680	SFMLGame.exe	5db8a69cbf2ba77
+4	378	7745554249185475	CMakeFiles/SFMLGame.dir/main.cpp.obj.ddi	9c4f1f5d4e1ad5eb
+380	405	7745554251484499	CMakeFiles/SFMLGame.dir/CXX.dd	2f95369f1afb928f
+380	405	7745554251484499	C:/Users/user/source/repos/SFMLGame/out/build/x64-Release/CMakeFiles/SFMLGame.dir/CXXModules.json	2f95369f1afb928f
+380	405	7745554251484499	CMakeFiles/SFMLGame.dir/main.cpp.obj.modmap	2f95369f1afb928f
+406	2343	7745554270831164	CMakeFiles/SFMLGame.dir/main.cpp.obj	99e7bd356829da22
+2343	2545	7745554272070064	SFMLGame.exe	5db8a69cbf2ba77

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\SFMLGame.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\user\\source\\repos\\SFMLGame\\out\\build\\x64-Debug\\vc140.pdb",
+                "CMakeFiles\\SFMLGame.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

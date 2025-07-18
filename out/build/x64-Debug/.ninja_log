@@ -1,0 +1,25 @@
+# ninja log v5
+2	92	7745490360717902	CMakeFiles/SFMLGame.dir/main.cpp.obj.ddi	8e98519c736c1ccd
+110	127	7745490361079644	CMakeFiles/SFMLGame.dir/CXX.dd	2f95369f1afb928f
+110	127	7745490361079644	C:/Users/user/source/repos/SFMLGame/out/build/x64-Debug/CMakeFiles/SFMLGame.dir/CXXModules.json	2f95369f1afb928f
+110	127	7745490361079644	CMakeFiles/SFMLGame.dir/main.cpp.obj.modmap	2f95369f1afb928f
+127	1099	7745490370776106	CMakeFiles/SFMLGame.dir/main.cpp.obj	511a75c7682d4b6e
+1099	1324	7745490372511924	SFMLGame.exe	5b86c855dc7e23f8
+4	191	7745554453779078	CMakeFiles/SFMLGame.dir/main.cpp.obj.ddi	8e98519c736c1ccd
+192	220	7745554454091441	CMakeFiles/SFMLGame.dir/CXX.dd	2f95369f1afb928f
+192	220	7745554454091441	C:/Users/user/source/repos/SFMLGame/out/build/x64-Debug/CMakeFiles/SFMLGame.dir/CXXModules.json	2f95369f1afb928f
+192	220	7745554454091441	CMakeFiles/SFMLGame.dir/main.cpp.obj.modmap	2f95369f1afb928f
+221	2476	7745554476628120	CMakeFiles/SFMLGame.dir/main.cpp.obj	511a75c7682d4b6e
+2476	2712	7745554477898756	SFMLGame.exe	5b86c855dc7e23f8
+4	181	7745554602283306	CMakeFiles/SFMLGame.dir/main.cpp.obj.ddi	8e98519c736c1ccd
+183	210	7745554602590189	CMakeFiles/SFMLGame.dir/CXX.dd	2f95369f1afb928f
+183	210	7745554602590189	C:/Users/user/source/repos/SFMLGame/out/build/x64-Debug/CMakeFiles/SFMLGame.dir/CXXModules.json	2f95369f1afb928f
+183	210	7745554602590189	CMakeFiles/SFMLGame.dir/main.cpp.obj.modmap	2f95369f1afb928f
+210	2198	7745554622451782	CMakeFiles/SFMLGame.dir/main.cpp.obj	511a75c7682d4b6e
+2198	2427	7745554623671987	SFMLGame.exe	5b86c855dc7e23f8
+5	180	7745555346919292	CMakeFiles/SFMLGame.dir/main.cpp.obj.ddi	8e98519c736c1ccd
+182	210	7745555347231603	CMakeFiles/SFMLGame.dir/CXX.dd	2f95369f1afb928f
+182	210	7745555347231603	C:/Users/user/source/repos/SFMLGame/out/build/x64-Debug/CMakeFiles/SFMLGame.dir/CXXModules.json	2f95369f1afb928f
+182	210	7745555347231603	CMakeFiles/SFMLGame.dir/main.cpp.obj.modmap	2f95369f1afb928f
+211	2223	7745555367333175	CMakeFiles/SFMLGame.dir/main.cpp.obj	511a75c7682d4b6e
+2223	2449	7745555368565200	SFMLGame.exe	5b86c855dc7e23f8

@@ -2,7 +2,7 @@
 
 int main()
 {
-    int&& r =1;
+    
     sf::RenderWindow window(sf::VideoMode({1000, 600}), "SFML works!");
     sf::CircleShape shape(100.f);
     shape.setPosition({100,100});
@@ -18,8 +18,16 @@ int main()
             else if (const auto* keyPressed = event->getIf<sf::Event::KeyPressed>()) {
                 if (keyPressed->scancode == sf::Keyboard::Scancode::W) {
                     shape.move({0,-1});
-                }
+
+                }else if (keyPressed->scancode == sf::Keyboard::Scancode::S) {
+					shape.move({ 0,1 });
+
+				}else if (keyPressed->scancode == sf::Keyboard::Scancode::D) {
+					shape.move({ 1,0 });
+				}
+
             }
+			
         }
 
         window.clear(sf::Color(20,5,5));
