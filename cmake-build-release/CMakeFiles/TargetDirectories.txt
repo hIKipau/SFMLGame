@@ -1,0 +1,3 @@
+/Users/hikipau/CLionProjects/SimpleGameSFML/cmake-build-release/CMakeFiles/SimpleGameSFML.dir
+/Users/hikipau/CLionProjects/SimpleGameSFML/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/hikipau/CLionProjects/SimpleGameSFML/cmake-build-release/CMakeFiles/rebuild_cache.dir
