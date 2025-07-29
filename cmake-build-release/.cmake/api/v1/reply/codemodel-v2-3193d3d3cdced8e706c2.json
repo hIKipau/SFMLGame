@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.30"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "Release",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "SimpleGameSFML::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-SimpleGameSFML-Debug-2ce960fdeac4bc70e24b.json",
+					"jsonFile" : "target-SimpleGameSFML-Release-56b3b669a6e74bff9c37.json",
 					"name" : "SimpleGameSFML",
 					"projectIndex" : 0
 				}
@@ -49,7 +49,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/hikipau/CLionProjects/SimpleGameSFML/cmake-build-debug",
+		"build" : "/Users/hikipau/CLionProjects/SimpleGameSFML/cmake-build-release",
 		"source" : "/Users/hikipau/CLionProjects/SimpleGameSFML"
 	},
 	"version" : 

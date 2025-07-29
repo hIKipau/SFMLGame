@@ -56,6 +56,13 @@ build CMakeFiles/SimpleGameSFML.dir/main.cpp.o: CXX_COMPILER__SimpleGameSFML_uns
   OBJECT_DIR = CMakeFiles/SimpleGameSFML.dir
   OBJECT_FILE_DIR = CMakeFiles/SimpleGameSFML.dir
 
+build CMakeFiles/SimpleGameSFML.dir/Buttons.cpp.o: CXX_COMPILER__SimpleGameSFML_unscanned_Debug /Users/hikipau/CLionProjects/SimpleGameSFML/Buttons.cpp || cmake_object_order_depends_target_SimpleGameSFML
+  DEP_FILE = CMakeFiles/SimpleGameSFML.dir/Buttons.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  INCLUDES = -isystem /opt/homebrew/include
+  OBJECT_DIR = CMakeFiles/SimpleGameSFML.dir
+  OBJECT_FILE_DIR = CMakeFiles/SimpleGameSFML.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target SimpleGameSFML
@@ -64,7 +71,7 @@ build CMakeFiles/SimpleGameSFML.dir/main.cpp.o: CXX_COMPILER__SimpleGameSFML_uns
 #############################################
 # Link the executable SimpleGameSFML
 
-build SimpleGameSFML: CXX_EXECUTABLE_LINKER__SimpleGameSFML_Debug CMakeFiles/SimpleGameSFML.dir/main.cpp.o | /opt/homebrew/lib/libsfml-graphics.3.0.0.dylib /opt/homebrew/lib/libsfml-window.3.0.0.dylib /opt/homebrew/lib/libsfml-system.3.0.0.dylib
+build SimpleGameSFML: CXX_EXECUTABLE_LINKER__SimpleGameSFML_Debug CMakeFiles/SimpleGameSFML.dir/main.cpp.o CMakeFiles/SimpleGameSFML.dir/Buttons.cpp.o | /opt/homebrew/lib/libsfml-graphics.3.0.0.dylib /opt/homebrew/lib/libsfml-window.3.0.0.dylib /opt/homebrew/lib/libsfml-system.3.0.0.dylib
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk
   LINK_LIBRARIES = -Wl,-rpath,/opt/homebrew/lib  /opt/homebrew/lib/libsfml-graphics.3.0.0.dylib  /opt/homebrew/lib/libsfml-window.3.0.0.dylib  /opt/homebrew/lib/libsfml-system.3.0.0.dylib
   OBJECT_DIR = CMakeFiles/SimpleGameSFML.dir
